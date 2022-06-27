@@ -1,16 +1,3 @@
-<!-- [![Wasabeef's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=aminsoheyli&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminsoheyli&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminsoheyli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminsoheyli&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
-
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-
-
-<img src="https://komarev.com/ghpvc/?username=aminsoheyli&color=blue&style=flat-square" align="right" />
-
-
-[linkedin]: https://www.linkedin.com/in/aminsoheyli/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aminsoheyli/)
